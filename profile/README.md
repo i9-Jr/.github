@@ -1,12 +1,5 @@
-## Hi there 👋
 
-<!--
+:office: Empresa Júnior Sediada na Universidade do Vale do São Francisco, Juazeiro-Bahia, Presta serviços na área de Tecnologia.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[<img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="inovejr" height="30" width="40" />](https://www.linkedin.com/company/inovejr)
+[<img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="inovejr" height="30" width="40" />](https://www.instagram.com/i9junior)
